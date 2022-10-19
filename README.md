@@ -7,12 +7,12 @@ In VFD controlled motors, acoustic noise increase due to switching harmonics ind
 Acoustic data recorded in time domain can be transferred into frequency domain to identify existing frequencies
 Dominant frequencies will be monitored to create alarm.
 
-<img src="Images/TimeandFrequencyDomains.PNG" Width="300">
+<img src="Images/TimeandFrequencyDomains.png" Width="300">
 
 ## Sound analysis device
 Following components were used to create the device.
 
-<img src="Images/ListofComponents.jpg" Width="300">
+<img src="Images/ListofComponents.JPG" Width="300">
 
 Figure below illustrates assembly of the components.
 
@@ -24,4 +24,4 @@ FFT technique is used to identify n dominant frequencies and their amplitude.
 Analyzed data will be sent to PubNub  in a specified time interval. 
 A mobile app can be designed using simply MIT App Inventor or any other app developping platforms to monitor published data on the smart phone.
 
-<img src="Images/FFT Signal Analysis.PNG" Width="300">
+<img src="Images/FFT Signal Analysis.png" Width="300">
