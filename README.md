@@ -12,7 +12,7 @@ Dominant frequencies will be monitored to create alarm.
 ## Sound analysis device
 Following components were used to create the device.
 
-<img src="Images/ListofComponents.JPG" Width="300">
+<img src="Images/ListofComponents.JPG" Width="600">
 
 Figure below illustrates assembly of the components.
 
